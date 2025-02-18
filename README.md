@@ -1,2 +1,2 @@
 # python-projects
-Machine learning
+python mini projects
